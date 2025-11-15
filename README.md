@@ -17,9 +17,8 @@
 
 ## 📫 Connect With Me  
 <p align="center">
-  <a href="https://instagram.com/v1fiorentina">
-  <a href="mailto:@mhmdaimansyf">
-  
+ <h1>instragram saya</h1> <a href="https://instagram.com/v1fiorentina">
+ <h2>email saya</h2> <a href="mailto:@mhmdaimansyf">
 </p>
 
 ---
