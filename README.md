@@ -7,7 +7,7 @@
 
 ---
 
-## Biodata Diri
+## ✨ Biodata Diri
 - 🔥 Nama         : Muhammad Aiman Sayyaf  
 - 🌱 Universitas  : Stikom EL RAHMA
 - 🎯 Goal/tujuan  : Sukses Dunia Akhirat
@@ -16,7 +16,7 @@
 ---
 
 ## 📫 Connect With Me  
-<p align="center">
+<p>
  instagram : <a href="https://instagram.com/v1fiorentina" target="_blank">v1fiorentina</a><br>
  email     : <a href="mailto:@mhmdaimansyf" target="_blank">@mhmdaimansyf</a>  
 </p>
